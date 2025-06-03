@@ -1,0 +1,4 @@
+pack.name={PACK_NAME_FROM_FORM_OR_DEFAULT}
+pack.description=§u★HoloLab§r pacote de recursos gerado em §o{PACK_GENERATION_TIME}§r\n{PACK_LANG_DESCRIPTION_DEVELOPER_LINE}{AUTHORS_SECTION}{DESCRIPTION_SECTION}{DISABLED_FEATURES_SECTION}{CONTROLS_SECTION}\n\n§lContagem total de blocos: {TOTAL_MATERIAL_COUNT}\n§r{MATERIAL_LIST}
+# ... (outras chaves como pack.description.authors, etc., traduzidas e adaptadas) ...
+hololab.material_list.heading=Lista de Materiais de {PACK_NAME} 
